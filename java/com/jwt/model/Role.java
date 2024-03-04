@@ -4,5 +4,6 @@ public enum Role {
 
 	user,
 	admin,
+	host,
 	manager;
 }
